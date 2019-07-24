@@ -1,2 +1,2 @@
-# vintrace_helloworld
+# Hello World
 A static Hello World site
